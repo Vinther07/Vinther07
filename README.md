@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vinther07
 - 👀 I’m interested in helping people living a happier life
-- 🌱 I’m currently learning Git, CS50, Python and Flutter
-- 💞️ I’m looking to collaborate on Flutter and Python
+- 🌱 I’m currently learning Git, Data analytics, R, Python and SQL
+- 💞️ I’m looking to collaborate on R, SQL, Python, Power Bi and Tableau
 - 📫 How to reach me: No concact yet.
 
 <!---
