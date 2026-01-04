@@ -4,7 +4,7 @@ I build tools that help people live simpler, happier lives through better financ
 
 #### 🚀 What I'm working on
 - 🏛️ Building a private **Investment & Wealth Platform**
-- 🤖 Exploring **Agentic AI** workflows with Ai
+- 🤖 Exploring **Agentic AI** workflows and trying to stay on top of new tools and trends.
 - 📊 Learning **Full Stack Web Development** (Next.js 14+, TypeScript, Tailwind)
 
 #### 🛠️ Toolbox
